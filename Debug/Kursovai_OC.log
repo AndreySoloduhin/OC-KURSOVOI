@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\duyha\source\repos\Kursovai_OC\Kursovai_OC\Main.cpp(122,6): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\duyha\source\repos\Kursovai_OC\Kursovai_OC\Main.cpp(61,35): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+C:\Users\duyha\source\repos\Kursovai_OC\Kursovai_OC\Main.cpp(108,38): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+C:\Users\duyha\source\repos\Kursovai_OC\Kursovai_OC\Main.cpp(29,24): warning C4101: Process: неиспользованная локальная переменная
+  Kursovai_OC.vcxproj -> C:\Users\duyha\source\repos\Kursovai_OC\Debug\Kursovai_OC.exe
